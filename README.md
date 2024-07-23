@@ -5,7 +5,8 @@ ERD
 
 
 Tabel Movies
-![image](https://github.com/user-attachments/assets/15ed4cf3-3866-4c4a-9783-dca5686ce190)
+![image](https://github.com/user-attachments/assets/347504ff-2fe2-47ab-9287-3201714e7de8)
+
 
 
 Tabel Director
